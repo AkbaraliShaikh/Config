@@ -1,6 +1,7 @@
 " A sensible vimrc for Go development
 "
 call plug#begin()
+Plug 'fatih/vim-go'
 Plug 'fatih/molokai'
 Plug 'AndrewRadev/splitjoin.vim'
 Plug 'SirVer/ultisnips'
